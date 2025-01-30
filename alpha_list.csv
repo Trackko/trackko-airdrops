@@ -1,4 +1,6 @@
-Name,Link,Account Note,
-Humanity,https://testnet.humanity.org/login?ref=thunderbird,Do testnet
-coinmarketcap,https://coinmarketcap.com/,collect diamond
-Faucet,https://docs.metamask.io/developer-tools/faucet/,claim faucet
+Project Name,Link,Notes,Subtasks
+Starknet,https://starknet.io,"Official tasks","Follow Twitter:https://x.com/starknet|Join Discord:https://discord.gg/starknet|Complete Quiz:https://starknet.io/quiz"
+zkSync,https://zksync.io,"Layer 2 tasks","Bridge ETH:https://portal.zksync.io/bridge|Swap Tokens:https://zkswap.io|Mint NFT:https://mint.zksync.io"
+LayerZero,https://layerzero.network,"Omnichain tasks","Send Test Transaction:https://testnet.layerzero.network|Add Liquidity:https://app.uniswap.org"
+Celestia,https://celestia.org,"Modular blockchain","Stake TIA:https://wallet.celestia.org|Submit Form:https://celestia.org/form"
+Arbitrum,https://arbitrum.io,"Community campaign","Bridge Funds:https://bridge.arbitrum.io|Retweet Post:https://x.com/arbitrum/status/1234"
